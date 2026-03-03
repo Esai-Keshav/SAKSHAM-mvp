@@ -15,17 +15,17 @@ from sqlalchemy.orm import declarative_base, sessionmaker
 load_dotenv()
 
 # DATABASE_URL = "sqlite:///./chat.db"
-DATABASE_URL = "postgresql+psycopg://esai:1234@localhost/dd"
+# DATABASE_URL = "postgresql+psycopg://esai:1234@localhost/dd"
 
-engine = create_engine(
-    DATABASE_URL,
-    # echo=True,
-    # connect_args={"check_same_thread": False},  # required for SQLite
-)
+# engine = create_engine(
+#     DATABASE_URL,
+#     # echo=True,
+#     # connect_args={"check_same_thread": False},  # required for SQLite
+# )
 
-DB_Session = sessionmaker(autoflush=True, bind=engine)
+# DB_Session = sessionmaker(autoflush=True, bind=engine)
 
-Base = declarative_base()
+# Base = declarative_base()
 
 embeddings = OpenAIEmbeddings(model="text-embedding-3-small")
 
@@ -66,7 +66,7 @@ llm = init_chat_model(
     # model_provider="openai",
     # model_provider="groq",
     # temperature=0.2,
-    max_tokens=720,
+    max_tokens=2000,
 )
 
 # print(llm)
