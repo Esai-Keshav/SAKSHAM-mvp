@@ -1,7 +1,13 @@
 python-dotenv
-sqlalchemy
+SQLAlchemy
+pgvector
+chainlit
 psycopg
 langchain
 langchain-community
 langchain-postgres
 langchain-openai
+orjson
+asyncio
+httpx
+beautifulsoup4
