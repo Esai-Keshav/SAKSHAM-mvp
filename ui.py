@@ -7,7 +7,7 @@ async def main():
     await cl.Message("""
         Hello 👋 Welcome to Saksham Support.
         Is this about:                     
-        1️⃣ Your phone
+        1️⃣ Tech 
         2️⃣ Something that may be a scam?
         """).send()
 
