@@ -44,4 +44,5 @@ async def crawl():
 
 
 if __name__ == "__main__":
-    asyncio.run(crawl())
+    print("Crawling and processing documents...")
+    # asyncio.run(crawl())
