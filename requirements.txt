@@ -8,6 +8,5 @@ langchain-community
 langchain-postgres
 langchain-openai
 orjson
-asyncio
 httpx
 beautifulsoup4
