@@ -4,21 +4,36 @@ from llm import generate_response
 
 @cl.on_chat_start
 async def main():
-    await cl.Message("You want to know about your phone or scam check").send()
+    await cl.Message("""
+        Hello 👋 Welcome to Saksham Support.
+        Is this about:                     
+        1️⃣ Your phone
+        2️⃣ Something that may be a scam?
+        """).send()
+
     cl.user_session.set("history", [])
 
 
 @cl.on_message
 async def on_message(msg: cl.Message):
     # print("User:", msg.content)
+    response = cl.Message(content="")
 
     # if "phone" in msg.content.lower():
-    print(cl.user_session.get("history"))
+    # print(cl.user_session.get("history"))
 
-    cl.user_session.get("history").append((msg.content))
+    async for chunk in generate_response(
+        msg.content, history=cl.user_session.get("history")
+    ):
+        if chunk:
+            # print("AI:", chunk)
+            await response.stream_token(chunk)
 
-    response = generate_response(msg.content, history=cl.user_session.get("history"))
-    await cl.Message(content=response.content).send()
+    await response.send()
+
+    cl.user_session.get("history").append(
+        ({"user": msg.content, "ai": response.content})
+    )
 
     # else:
     #     print("coming soon")

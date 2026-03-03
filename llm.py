@@ -3,7 +3,7 @@ from config import llm
 from vector_db import find_similar_docs
 
 
-def generate_response(query: str, history: list = []):
+async def generate_response(query: str, history):
     similar_docs = find_similar_docs(query)
     # print(similar_docs)
     prompt = ChatPromptTemplate.from_messages(
@@ -25,6 +25,7 @@ You must NOT provide assistance for any other device or unrelated topic.
 # Decision Order (Follow Strictly Top to Bottom)
 
 ---
+## Greeting the user first (Mandatory)
 
 ## Scam / Financial Override (Highest Priority)
 
@@ -107,7 +108,8 @@ Do not provide additional content.
 
 # Tone & Style
 
-- Always be greet the user warmly.
+- Always greet the user warmly.
+- Be Kind.
 - Use plain, simple language.
 - Be calm and reassuring.
 - Keep responses concise.
@@ -228,15 +230,18 @@ Your only purpose is to provide friendly and accurate help for Google Pixel and 
     model = prompt | llm
 
     print(history)
-    response = model.invoke(
+
+    async for chunk in model.astream(
         {
             "question": query,
             "retrieved_docs": similar_docs,
-            "chat_history": history,
+            "chat_history": history[-5:],
         }
-    )
+    ):
+        if chunk.content:
+            yield chunk.content
 
-    return response
+    # return response
 
 
 if __name__ == "__main__":
