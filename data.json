@@ -1,0 +1,3135 @@
+[
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Listen with Spatial Audio on your Pixel device - Pixel Ph...",
+        "description": "Experience Spatial Audio on your device's speakers to get an immersive audio effect when you watch supported movies or TV shows with your Pixel device. For a..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/12967594",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Protect your Pixel Fold with a case - Pixel Phone Help",
+        "description": "With a case, you can protect your Pixel Fold phone from damage and dirt. Put your case on your Pixel Fold Put on your Pixel Fold phone case Ch"
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/15199831",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Share Pixel usage & diagnostics information with Google -...",
+        "description": "To help improve Pixel and the overall Android ecosystem, you can let your Pixel device send information to Google about how you use it. This info helps us im..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/14116441",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Ayuda de Teléfono Pixel",
+        "description": "Centro de asistencia oficial de Teléfono Pixel donde puedes encontrar sugerencias y tutoriales para aprender a utilizar el producto y respuestas a otras preg..."
+      },
+      "page_content": "https://support.google.com/pixelphone/",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "清洁 Pixel 保护套 - Pixel 手机帮助",
+        "description": "清洁 Pixel 保护套有助于去除污渍和污迹。 如何手洗 Pixel 保护套（Pixel 6 及更新型号手机的保护套） 重要提示：对于 Pixel Fold，请不要从手机上取下保护套，直接清洁污渍即可。 从手机上取下保护套。 用水浸湿布或海绵。 用湿布轻轻地以绕圆圈的方式擦拭保护套。 用冷水冲洗干净。 如有必要，..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/7535206",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Turn your Pixel phone on & off - Pixel Phone Help",
+        "description": "You can turn your phone&nbsp;on and&nbsp;off with the top button on the right side.&nbsp;See where your Power button is located on your phone. Turn your powe..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/7374159",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Use At a Glance on your Pixel devices - Pixel Phone Help",
+        "description": "Important: This feature is only available on Pixel 3 and later devices with Android version 12 and up. Some features aren't available in all languages or cou..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/14884067",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Change settings quickly on your Pixel phone - Pixel Phone...",
+        "description": "You can find and change your settings from any screen on your phone with Quick Settings. To get to the settings you change often, you can add or move them to..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/6111329",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Pink vertical line on screen - Google Pixel Community"
+      },
+      "page_content": "https://support.google.com/pixelphone/thread/397471339/pink-vertical-line-on-screen",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "设备设置 - Pixel 手机帮助"
+      },
+      "page_content": "https://support.google.com/pixelphone/topic/7078138",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "See two apps at the same time on Pixel phone - Pixel Phon...",
+        "description": "Depending on the app, you can sometimes use more than one app at once. You can also watch a video in a small window while you do other things. Important: Som..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/7444033",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Get started with Pixel phone - Pixel Phone Help"
+      },
+      "page_content": "https://support.google.com/pixelphone/topic/7083311",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Browse the Google Pixel Community - Google Pixel Community"
+      },
+      "page_content": "https://support.google.com/pixelphone/threads",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Repair & Warranty Learning Center - Pixel Phone Help",
+        "description": "Welcome to the Rep"
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/16444391",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "了解 Pixelsnap 配件 - Pixel 手机帮助",
+        "description": "Google 全新推出的 Pixelsnap 磁吸配件系列可轻松吸附到 Pixel 手机上，实现无线充电等功能。 了解磁吸和无线充电配件 Pixelsnap 配件采用 Qi2 磁吸标准，可确保与设备完美对准，实现便捷的无线充电和无缝吸附。这种安全连接不仅可为设备供电，还有助于您轻松连接各种其他磁吸配件，例如 Pi..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/16479972",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Google Pixel のバッテリー残量を確認する - Google Pixel ヘルプ",
+        "description": "スマートフォンのバッテリー残量を確認できます。充電中は、フル充電までの時間を確認できます。 重要: この手順の一部は、Android 14 以上でのみ動作します。Android のバージョンを更新する方法 Google Pixel のバッテリーはユーザーの操作を継続的に学習し、"
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/2819525",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Delete, disable & manage unused apps on Android - Pixel P..."
+      },
+      "page_content": "https://support.google.com/pixelphone/topic/13627086",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Exit Repair mode - Pixel Phone Help"
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/16443693",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Cómo configurar y activar una eSIM - Ayuda de Teléfono Pixel"
+      },
+      "page_content": "https://support.google.com/pixelphone/topic/16143593",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Google Pixel Update - December 2025 - Google Pixel Community"
+      },
+      "page_content": "https://support.google.com/pixelphone/thread/389367100/google-pixel-update-december-2025",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Android 15 update - do not have NFC tile in Quick Setting..."
+      },
+      "page_content": "https://support.google.com/pixelphone/thread/315105574/android-15-update-do-not-have-nfc-tile-in-quick-settings-menu",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Set up a screen saver - Pixel Phone Help",
+        "description": "Your phone's screen saver can show photos, colorful backgrounds, a clock, and more when your phone is charging or docked. Important: Some of these steps only..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/2818748",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Check & update your Android version - Pixel Phone Help",
+        "description": "You can find your device's Android version number, security update status, and Google Play system status in your Settings app. You'll get notifications when ..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/7680439",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Safety & regulatory manual (USB-C Digital to 3.5 mm headp...",
+        "description": "Basic safety"
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/9154088",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Set up a Pixel device for a child - Pixel Phone Help",
+        "description": "You can set up a new Pixel device for your child. You can also supervise their account and choose the apps they can use. Learn how to set up a Pixel device f..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/14782427",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "LINEの通知が来ない - Google Pixel コミュニティ"
+      },
+      "page_content": "https://support.google.com/pixelphone/thread/386798168/line%E3%81%AE%E9%80%9A%E7%9F%A5%E3%81%8C%E6%9D%A5%E3%81%AA%E3%81%84",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "eSIM Activation Failed After December Update – Need Help ..."
+      },
+      "page_content": "https://support.google.com/pixelphone/thread/393432901/esim-activation-failed-after-december-update-%E2%80%93-need-help",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Google Pixel のバッテリーについて - Google Pixel ヘルプ",
+        "description": "Google Pixel など、スマートフォンやタブレットのほとんどで、充電式リチウムイオン バッテリーが使用されています。このバッテリーは充電サイクルの回数が限られているため、最終的には交換が必要です。すべてのバッテリーは消耗品であり、無限に使用できるものではありません。バッテリーの容量低下には、温度、充電と放..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/15738128",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Clock app - Pixel Phone Help"
+      },
+      "page_content": "https://support.google.com/pixelphone/topic/3453450",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Get manufacturer help with Made for Google accessories - ...",
+        "description": "You can make sure an accessory is certified to work with Pixel by choosing a Made for Google accessory.&nbsp;Learn what Made for Google means. To get support f"
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/7538483",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "借助 Phone Hub 将应用从 Pixel 手机流式传输到 Chromebook - Pixel 手机帮助",
+        "description": "借助 Phone Hub, 在 Chromebook 屏幕上使用 Pixel 手机的功能。例如，您可在 Chromebook 上查看手机通知，找到打开的标签页，以及从移动版 Chrome 浏览器中流式传输应用。 在流式传输应用期间，手机会保持休眠状态，以减少电池耗电量。 如果您针对 Pixel 手机使用 Phon..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/13883513",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Change your screen color at night on a Pixel phone - Pixe...",
+        "description": "To save your phone’s battery and to make the screen easier to use in dim light, adjust the screen colors. Your phone’s Dark theme, Night Light, and Grayscale..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/7169926",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Learn about Pixel security certifications on Android - Pi...",
+        "description": "You can learn about product certifications and validations for Pixel, Android, and some device components. Certification Programs NIST FIPS 140-3/140-2 CMVP ..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/11062200",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Charge your Pixel phone - Pixel Phone Help",
+        "description": "You can charge your Pixel phone wirelessly or with a USB-C cable. Check your battery level Open your phone’s Settings app. Tap Battery. Charge your Pixel pho..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/7106961",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Declaration of Conformity (Parental Control) Pixel 7 Pro ..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/15182455",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Google Pixel Community"
+      },
+      "page_content": "https://support.google.com/pixelphone/community",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Camera error says hardware or software problem - Google P..."
+      },
+      "page_content": "https://support.google.com/pixelphone/thread/221617207/camera-error-says-hardware-or-software-problem",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Google Pixel Update - January 2026 - Google Pixel Community"
+      },
+      "page_content": "https://support.google.com/pixelphone/thread/401468923/google-pixel-update-january-2026",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Cómo convertir una tarjeta SIM física en una eSIM - Ayuda...",
+        "description": "Puedes convertir una tarjeta SIM física en una eSIM en el mismo dispositivo si ya no quieres usar una tarjeta física. Importante: Para usar esta función, deb..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/16115471",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Cómo transferir una SIM a un teléfono nuevo - Android - A...",
+        "description": "Puedes transferir tu SIM física o eSIM a una eSIM en un teléfono nuevo mientras transfieres tus datos desde otro dispositivo. Según tu operador, es posible q..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/16115951",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "[video] How to set Emoji Wallpaper in Google Pixel - Pixe...",
+        "description": "This video shows you how you can enable emoji wallpaper on your Google Pixel<br><br>#google #googlepixel #howto #madebygoogle #pixel #teampixel #emoji #emoji..."
+      },
+      "page_content": "https://support.google.com/pixelphone/community-video/229661534/how-to-set-emoji-wallpaper-in-google-pixel-pixel-6a-pixel-7a-pixel-7",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "自動調整バッテリーとバッテリーの最適化をオンにする - Google Pixel ヘルプ",
+        "description": "必要なときだけスマートフォンのバッテリーを使用するようアプリを設定するには、自動調整バッテリーとバッテリーの最適化をオンにしておきます。これらの設定はデフォルトでオンになっています。"
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/7015477",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "電池を管理する - Google Pixel ヘルプ"
+      },
+      "page_content": "https://support.google.com/pixelphone/topic/7084007",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "How do I get rid of pop up adverts? - Google Pixel Community"
+      },
+      "page_content": "https://support.google.com/pixelphone/thread/395042386/how-do-i-get-rid-of-pop-up-adverts",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Get emergency help through satellite with your Pixel phon...",
+        "description": "Important: Emergency help through the satellite service should be used only under exceptional circumstances. Use it when no other means of reaching emergency..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/15254448",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "锁定和解锁手机 - Pixel 手机帮助"
+      },
+      "page_content": "https://support.google.com/pixelphone/topic/7084309",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Use emoji suggestions on your Pixel phone - Pixel Phone Help",
+        "description": "When you use voice dictation, you can choose from a list of suggested emojis to include in your text. You can also search for any emoji even if you don’t kno..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/12796686",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Accessibility on Android devices - Pixel Phone Help"
+      },
+      "page_content": "https://support.google.com/pixelphone/topic/7084504",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Customize the lock screen on your Pixel phone - Pixel Pho...",
+        "description": "You can control what shows on the lock screen of your phone, like notifications, a personal message, a clock, and Wallet. Change the clock style (Android 16 ..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/16520562",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "通知和打扰设置 - Pixel 手机帮助"
+      },
+      "page_content": "https://support.google.com/pixelphone/topic/7078221",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Use less mobile data with Data Saver - Pixel Phone Help",
+        "description": "To help use less mobile data on a limited data plan, you can turn on Data Saver"
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/7055392",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Issues with Camera - Google Pixel Community"
+      },
+      "page_content": "https://support.google.com/pixelphone/thread/306239825",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Get help for issues on your Pixel phone - Pixel Phone Help",
+        "description": "To get support on your Pixel phone, you can use Pixel Troubleshooting and Device health &amp; support. Important: These features are only available on Pixel ..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/14140287",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Safety, regulatory, and other info - Pixel Phone Help",
+        "description": "Pixel 10a | Pixel 10 Pro Fold | Pixel 10, Pixel 10 Pro, and Pixel 10 Pro XL |"
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/9204905",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "How to fix Wi-Fi connection problems - Pixel Phone Help",
+        "description": "If you’re having Wi-Fi connection problems or find a Wi-Fi icon with an exclamation point"
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/6183600",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Pixel 9 Pro generally lags && camera issue - Google Pixel..."
+      },
+      "page_content": "https://support.google.com/pixelphone/thread/309451086/pixel-9-pro-generally-lags-camera-issue",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Get your Pixel phone repaired - Pixel Phone Help",
+        "description": "There are support options to repair Pixel phones for issues covered and not covered by the warranty. Your repair options depend on your phone's warranty and ..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/9004345",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Google Pixel を使って他のデバイスを充電する - Google Pixel ヘルプ",
+        "description": "バッテリー シェアを使用すると、Qi 認証済みのスマートフォンやアクセサリー（Google Pixel Buds など）を Google Pixel の背面に重ねてワイヤレス充電できます。バッテリー シェアは、Google Pixel 5、Google Pixel 6、Google Pixel 6 Pro、Goo..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/10107702",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Localiser un téléphone Pixel égaré, le protéger ou en eff...",
+        "description": "Si vous perdez un appareil Android ou une montre Wear OS, vous pouvez les localiser, les sécuriser ou en effacer les données à distance. Vous pouvez égalemen..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/9338680",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Customize your Pixel Fold - Pixel Phone Help"
+      },
+      "page_content": "https://support.google.com/pixelphone/topic/13558117",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "控制您的安全设置 - Pixel 手机帮助"
+      },
+      "page_content": "https://support.google.com/pixelphone/topic/7079175",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Set up & use your Pixel USB-C earbuds - Pixel Phone Help",
+        "description": "You can listen to media, like music, videos, audiobooks, and podcasts, using your Pixel USB-C digital earbuds. If you’re using a phone or other device, you c..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/9140284",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Connect to VPN by Google on your Pixel device - Pixel Pho...",
+        "description": "Pixel 7 &amp; later phones and the Pixel Tablet have access to the optimized, built-in Virtual Private Network (VPN) by Google at no extra cost in countries ..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/2819573",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Declaration of Conformity (Parental Control) Pixel 7 - Pi..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/15182153",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "在 Pixel 手机上使用手势 - Pixel 手机帮助",
+        "description": "您可以使用手势与手机互动，"
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/7443425",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Esim not working - Google Pixel Community"
+      },
+      "page_content": "https://support.google.com/pixelphone/thread/209612706/esim-not-working",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Pixelsnap Case with magnets for Pixel phones - Pixel Phon...",
+        "description": "Magnetic Fields Avoid placing any items containing magnets or which are sensitive to magnetism, such as credit cards, bank cards, audio/video tapes, or magne..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/16482822",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Change volume, sound & vibrate settings on your Pixel pho...",
+        "description": "You can make your phone's volume louder or quieter. You can also change your ringtone, sound, and vibration. Important: Some of these steps work only on Andr..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/2819577",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Manage screen & display settings on a Pixel phone - Pixel...",
+        "description": "You can change your screen's brightness, font size, display size, rotation settings, and more. Important: Some of these steps work only on Android 10 an"
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/6111557",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Reset your Pixel phone manually with Fastboot mode - Pixe...",
+        "description": "Important: For trade-ins, use the factory reset option in the Settings app. If you can’t reset in the Settings app or you can’t use your screen, you can rese..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/16493042",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "问题排查 - Pixel 手机帮助"
+      },
+      "page_content": "https://support.google.com/pixelphone/topic/7078141",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Extended Repair Program for Pixel 8 - Pixel Phone Help",
+        "description": "Google has determined that a limited number of Pixel 8 devices may experience display related vertical line and flickering issues. Google is offering an Exte..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/15009955",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Keep your Android’s wireless connections on in Airplane m...",
+        "description": "When you first turn on Airplane mode on your Android phone, Wi-Fi and Bluetooth turn off. To keep your wireless connections on, you can change this setting s..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/12639358",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "How can I know what's my battery health and overall charg..."
+      },
+      "page_content": "https://support.google.com/pixelphone/thread/387146088/how-can-i-know-what-s-my-battery-health-and-overall-charging-cycles-on-my-device",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "バッテリーが消耗する問題を解決する - Google Pixel ヘルプ",
+        "description": "スマートフォンのバッテリー駆動時間が短いと思われる場合は、ダウンロードしたアプリの消費電力が多すぎることが考えられます。スマートフォンの設定を調整してバッテリーを長持ちさせることができます。バッテリーの消耗の問題を解決するには、以下の手順をお試しください。 重要: この手順の一部は、Android 14 以上での..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/6090599",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Find chats & messages quickly on your Pixel phone - Pixel...",
+        "description": "You can control when and how you get notifications for texts and messages from apps. You can also create bubbles for a conversation, which makes it easier to..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/10034525",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Find device info, tips, support & more with My Pixel - Pi...",
+        "description": "With My Pixel, you can find tailored content, explore new features, get support for Pixel devices including Pixel Phones, Pixel Tablet, Pixel Watch and Pixel..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/16490965",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Learn about Pixel troubleshooting privacy - Pixel Phone Help",
+        "description": "To ensure smooth device performance, you can use Pixel troubleshooting to diagnose and fix common phone issues. To make informed privacy decisions, review it..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/16490258",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Learn about authorizations & charges for repairs - Pixel ...",
+        "description": "Mail-in repairs:"
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/16443482",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Cómo verificar la temperatura del Pixel y comprender su s...",
+        "description": "El teléfono Pixel se diseñó para funcionar en un rango específico de temperaturas y, en ocasiones, se lo puede sentir caliente. Puedes consultar la temperatu..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/15679416",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Add apps, shortcuts & widgets to your Home screens - Pixe...",
+        "description": "To quickly get to your favorite content, you can customize your Home screens. You can add and organize: Apps Shortcuts to content inside apps Widgets that sh..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/2781850",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "заблокирован оператором связи - Google Pixel Community"
+      },
+      "page_content": "https://support.google.com/pixelphone/thread/273073419/%D0%B7%D0%B0%D0%B1%D0%BB%D0%BE%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD-%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BE%D0%BC-%D1%81%D0%B2%D1%8F%D0%B7%D0%B8",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Safety & regulatory manual (Pixel USB-C earbuds) - Pixel ...",
+        "description": "Basic safety"
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/9155215",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "I would like Google Assistant to respond with text only. ..."
+      },
+      "page_content": "https://support.google.com/pixelphone/thread/389974563/i-would-like-google-assistant-to-respond-with-text-only",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Connect through Bluetooth on your Pixel phone - Pixel Pho...",
+        "description": "Discover how to connect a Bluetooth device with your Google Pixel phone. After you pair a Bluetooth device once, your phone and device can pair automatically..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/2819579",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Get the most out of your Pixel Fold - Pixel Phone Help"
+      },
+      "page_content": "https://support.google.com/pixelphone/topic/13557958",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "How to use dual SIMs on your Google Pixel phone - Pixel P...",
+        "description": "If you have a Pixel 3a or later Pixel phone, you can use two SIMs: one physical SIM card and one eSIM. You can choose which SIM to use for which action, like..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/9449293",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Safety & Regulatory Guide for Pixel 8a - Pixel Phone Help",
+        "description": "Where to find product information Safety warnings Proper handling &amp; usage Service &amp; support Regulatory information"
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/14164796",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "无线和网络设置 - Pixel 手机帮助"
+      },
+      "page_content": "https://support.google.com/pixelphone/topic/7079174",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "寻找您的手机 - Pixel 手机帮助"
+      },
+      "page_content": "https://support.google.com/pixelphone/topic/7083317",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "My camera stopped working and it's completely black - Goo..."
+      },
+      "page_content": "https://support.google.com/pixelphone/thread/237735823/my-camera-stopped-working-and-it-s-completely-black",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Cannot Find NFC on My Pixel 7 Pro - Google Pixel Community"
+      },
+      "page_content": "https://support.google.com/pixelphone/thread/342936917/cannot-find-nfc-on-my-pixel-7-pro",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Get your data ready for your new Pixel device - iPhone & ...",
+        "description": "Important: You can only use this feature if you purchase your Pixel phone from the Google Store. If you purchase your phone outside the Google Store, you can..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/16504913",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Certain apps not working on WiFi but work on mobile data ..."
+      },
+      "page_content": "https://support.google.com/pixelphone/thread/99058387/certain-apps-not-working-on-wifi-but-work-on-mobile-data",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Back up or restore data on your Pixel device - Pixel Phon...",
+        "description": "Explore the different options to back up your Google Pixel phone data to your Google Account. You can restore your backed-up information to your phone."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/7179901",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Help keep your Pixel phone from feeling too warm or hot -...",
+        "description": "For recommendations based on your current device temperature and settings, check and understand your Pixel’s temperature. Check your device temperature Impor..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/3333708",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Google One offers for Pixel devices - Pixel Phone Help",
+        "description": "When you buy a Pixel device, you may be eligible for a Google One membership trial. With Google One, you get extra storage to use across Google Photos, Gmail..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/13529884",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Cómo usar la app de Grabadora en tu dispositivo Pixel - A..."
+      },
+      "page_content": "https://support.google.com/pixelphone/topic/16267366",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Safety & Regulatory Guide for 30W USB-C Charger - Pixel P...",
+        "description": "Where to find product information Safety warnings"
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/11224459",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Pixel phone hardware tech specs (earlier models) - Pixel ...",
+        "description": "Check out the tech specs for Pixel phones. If you're interested in buying a Pixel phone, visit the Google Store. Pixel 5a (5"
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/16043605",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Account & location settings - Pixel Phone Help"
+      },
+      "page_content": "https://support.google.com/pixelphone/topic/7078139",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Cómo configurar una nueva tarjeta eSIM - Ayuda de Teléfon...",
+        "description": "Si compras el teléfono directamente a tu operador, este te asignará una tarjeta eSIM. También puedes configurar una diferente si es necesario. Si no agregast..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/16115470",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Insufficient character allowance on keyboard shortcuts - ..."
+      },
+      "page_content": "https://support.google.com/pixelphone/thread/115273372/insufficient-character-allowance-on-keyboard-shortcuts",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Google Pixel でバッテリー セーバーを使用する - Google Pixel ヘルプ",
+        "description": "バッテリーを長持ちさせるには、バッテリー セーバーを使用します。自動でオンになるように設定することも、必要なときにオンにすることもできます。バッテリーをさらに長持ちさせるには、スーパー バッテリー セーバーをオンにします。 重要: バッテリー セーバーがオンの場合、5G 版 Google Pixel は携帯通信会..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/6187458",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "在接听之前先过滤来电 - Pixel 手机帮助",
+        "description": "接听来电前，您可以使用 Call Screen 功能确认来电者和来电原因。您无需 WLAN 或移动数据网络，即可在设备上使用来电过滤功能。通话助理接听的来电会与常规来电一样进行处理。了解来电过滤功能如何处理您的数据。"
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/9118387",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Add a Play widget to your Android home screen - Pixel Pho...",
+        "description": "When you add a Play widget through the Google Play Store, you can enjoy app organization, discover new content recommended by your apps, and resume content y..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/15154881",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "设置 Google Pixel Buds - Android - Pixel 手机帮助",
+        "description": "How to Connect Your Google Pixel Buds Pro 2 to Your Phone 重要提示：无论您"
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/7558528",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "I want to know my pixel is original or not - Google Pixel..."
+      },
+      "page_content": "https://support.google.com/pixelphone/thread/183205341/i-want-to-know-my-pixel-is-original-or-not",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Send feedback about your Pixel to Google - Pixel Phone Help",
+        "description": "You can send feedback about your phone to Google from your Settings app. This information helps improve Google's products and services for everyone."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/6398243",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "カメラアプリのインカメが使えない - Google Pixel コミュニティ"
+      },
+      "page_content": "https://support.google.com/pixelphone/thread/401252683/%E3%82%AB%E3%83%A1%E3%83%A9%E3%82%A2%E3%83%97%E3%83%AA%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%AB%E3%83%A1%E3%81%8C%E4%BD%BF%E3%81%88%E3%81%AA%E3%81%84",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Get help with your Pixel phone - Pixel Phone Help",
+        "description": "If you have issues with your Pixel phone, you can get help in several ways. Troubleshoot common issues You can solve many common software issues like frozen ..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/7109524",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Learn the basics about your Pixel phone - Pixel Phone Help"
+      },
+      "page_content": "https://support.google.com/pixelphone/topic/7083814",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Use Voice Translate - Pixel Phone Help",
+        "description": "Voice Translate translates your voice into the selected language and mimics your natural voice and tone in real time. You can use it for situations like maki..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/16477051",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Multiple Pixel phones disconnect/reconnect to WiFi - othe..."
+      },
+      "page_content": "https://support.google.com/pixelphone/thread/237034007/multiple-pixel-phones-disconnect-reconnect-to-wifi-other-devices-continue-working-fine",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Connect to mobile networks on a Pixel phone - Pixel Phone...",
+        "description": "You can&nbsp;adjust how your phone&nbsp;uses data by changing your mobile network settings. Depen"
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/2926415",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Transfer data from your previous device to a Pixel phone ...",
+        "description": "When you set up a new Pixel device, you can transfer data from your previous Android device or iPhone. The process and options for data transfer may vary dep..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/7129955",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Fix Bluetooth problems - Pixel Phone Help",
+        "description": "If your car or Bluetooth accessory isn’t connecting to your phone, try the solutions below. Important: You're using a cust"
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/7334382",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Android accessibility overview - Pixel Phone Help",
+        "description": "You can customize your Android device with accessibility settings and apps. Content Use a screen reader with TalkBack"
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/6006564",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Google Pixel のバッテリーを長持ちさせる - Google Pixel ヘルプ",
+        "description": "スマートフォンを長く利用できるよう、バッテリーの消耗を抑えて、バッテリーを長持ちさせることができます。 重要: Google Pixel では、この手順の一部は Android 11 以降でのみ動作します。お使いの Android のバージョンをご確認ください。 Google Pixel のバッテリー"
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/6090612",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Reduce & manage mobile data usage - Pixel Phone Help",
+        "description": "Data usage is how much&nbsp;data your phone&nbsp;uploads or downloads using mobile&nbsp;data. To make sure that you're not using too much data on&nbsp;your d..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/2819524",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Connectivity issues - Pixel Phone Help"
+      },
+      "page_content": "https://support.google.com/pixelphone/topic/7083820",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Learn when you'll get software updates on Google Pixel ph...",
+        "description": "Below is info about software updates for Pixel phones. If you have another Android device, contact your manufacturer or carrier for update info. About Pixel ..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/4457705",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Declaration of Conformity (Parental Control) Pixel 8 Pro ..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/15182773",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Create & customize the wallpaper on your Pixel phone - Pi...",
+        "description": "On your phone’s home screen and lock screen, you can use AI-generated wallpapers, custom emoji wallpapers, or photos with special effects. Create AI wallpape..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/16517561",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Make phone calls & send texts - Pixel Phone Help"
+      },
+      "page_content": "https://support.google.com/pixelphone/topic/7083609",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Pixel 9 Pro & Pixel 9 Pro XL Extended Repair Program - Pi...",
+        "description": "December 8, 2025 Understand the program Google has determined that a limited number of Pixel 9 Pro"
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/16737524",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "スマートフォンの位置情報を管理する - Google Pixel ヘルプ"
+      },
+      "page_content": "https://support.google.com/pixelphone/topic/7083817",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Learn more about eSIMs - Pixel Phone Help",
+        "description": "Important: Phones in the US with the Pixel 10, Pixel 10 Pro, and Pixel 10 Pro XL model don’t use physical SIMs, and are eSIM-only. An eSIM (embedded SIM) is ..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/16115741",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Charge your phone with a Pixel Stand - Pixel Phone Help",
+        "description": "Important: Pixel Stand doesn’t work on the Pixel 6a, Pixel Fold, Pixel 9 Pro Fold, Pixel 10, Pixel 10 Pro, Pixel 10 Pro XL, or the Pixel 10 Pro Fold. Due to ..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/9137565",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Pixel (First Generation) class action settlement - Pixel ...",
+        "description": "Get info about the settlement If you have questions about the proposed Pixel (First Generation)&nbsp;class action settlement in the United States, either: Vi..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/9438396",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Declaration of Conformity (Parental Control) Pixel 9 - Pi..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/15263931",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "在 Google 地图导航中使用节能模式 - Pixel 手机帮助",
+        "description": "重要提示： 只有 Pixel 10、Pixel 10 Pro、Pixel 10 Pro XL 和 Pixel 10 Pro Fold 支持在 Google 地图中使用此功能。 此功能仅可在驾车模式下使用，暂不支持步行或骑行等其他出行方式的导航。 开启节能模式后，您可以在驾车时通过锁屏界面查看简洁的低功耗地图。此低..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/16711572",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Declaration of Conformity (Parental Control) Pixel 8a - P..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/15182154",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Declaration of Conformity (Parental Control) Pixel 7a - P..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/15184780",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "获取与手机上的应用相关的帮助 - Pixel 手机帮助"
+      },
+      "page_content": "https://support.google.com/pixelphone/topic/7084096",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Что делать, если появилось сообщение \"Отключите зарядное ...",
+        "description": "Если порт USB-C телефона или кабель для зарядки слишком нагревается либо если в USB-порте обнаруживается вода или грязь, на экране появится одно из указанных..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/9280079",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Edge to Edge ruined apps after update - Google Pixel Comm..."
+      },
+      "page_content": "https://support.google.com/pixelphone/thread/359737504/edge-to-edge-ruined-apps-after-update",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Use Simple View on your Pixel phone - Pixel Phone Help",
+        "description": "You can turn on Simple View to make your Pixel phone simpler to view, navigate, and manage with specific preconfigured settings. You can turn off Simple View..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/15683160",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Safety & regulatory guide for Pixel 10 Pro Fold - Pixel P...",
+        "description": "Where to find product information Safety warnings Proper handling &amp; usage Service &amp; support Regulatory information"
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/16443248",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Doesn't show up in full screen - Google Pixel Community"
+      },
+      "page_content": "https://support.google.com/pixelphone/thread/388378476/doesn-t-show-up-in-full-screen",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Pixel 4a Battery Performance Program - Pixel Phone Help",
+        "description": "Important: This program ended on January 8th, 2026. Summary of program Google has determined that certain Pixel 4a phones require a software update to improv..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/15701861",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Safety & regulatory guide for Pixel 9, Pixel 9 Pro & Pixe...",
+        "description": "Where to find product information Safety warnings Proper Handling and Usage Service &amp; Support Regulatory Information"
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/14958126",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "提示 - Pixel 手机帮助"
+      },
+      "page_content": "https://support.google.com/pixelphone/topic/7084098",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Pixel 7A network problem and not supporting 5G - Google P..."
+      },
+      "page_content": "https://support.google.com/pixelphone/thread/236737471/pixel-7a-network-problem-and-not-supporting-5g",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Safety & regulatory guide for Pixel 10a - Pixel Phone Help",
+        "description": "Where to find product information Safety warnings Proper handling &amp; usage Service &amp; support Regulatory information"
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/16593610",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Why Pixel 7/7Pro not charging via USB-A to USB-C(3.1&3.2 ..."
+      },
+      "page_content": "https://support.google.com/pixelphone/thread/233966825/why-pixel-7-7pro-not-charging-via-usb-a-to-usb-c-3-1-3-2-cable-version-only-via-first-old-3-0-is-ok",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "45W USB-C Power Charger hardware tech specs - Pixel Phone...",
+        "description": "Check out the tech specs for 45W USB-C Power Charger. If you're interested in buying a 45W USB-C Power Charger, visit the Google Store. 45W USB-C Power Charger"
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/15205067",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "How to contact us - Pixel Phone Help"
+      },
+      "page_content": "https://support.google.com/pixelphone/topic/7078224",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Hide sensitive apps with private space - Pixel Phone Help",
+        "description": "To keep your sensitive apps away from prying eyes, you can set up private space, a separate space on your Android device to hide and organize apps. With priv..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/15341885",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Use passwords & passkeys across your devices - Computer -...",
+        "description": "When you sign in to an Android device or Chrome Browser, you can save passwords and passkeys for your Google Account with Google Password Manager. You can us..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/6197437",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "How to disable the \"Floating window\" mode for apps? - Goo..."
+      },
+      "page_content": "https://support.google.com/pixelphone/thread/227016726/how-to-disable-the-floating-window-mode-for-apps",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Safety & regulatory guide for Pixel 9 Pro Fold - Pixel Ph...",
+        "description": "Where to find product information Safety warnings Proper handling &amp; usage Service &amp; support Regulatory"
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/15090466",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Google Pixel が充電されない、または電源が入らない問題を修正する - Google Pixel ヘルプ",
+        "description": "このページの手順を使用して、スマートフォンの次の問題を解決します。 電源が入らない 画面が黒または空白である 電源は入るが充電されない 電源が入ってもすぐに切れる セルフヘルプ トラブルシューティングの手順 デバイスの電源をオンにするか、電源ボタンを長押しする 重要: バッテリーを快適に利用し、充電速度を最適にす..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/7167687",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Find when your Pixel device became available - Pixel Phon...",
+        "description": "The table below shows when your Pixel device was available to purchase on the Google Store in the US."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/15738422",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Use Google Play Protect to help keep your apps safe & you...",
+        "description": "<p>Learn how you can use Google Play Protect to scan and help protect your Android device from harmful and unsafe apps and to verify the security of new apps..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/2812853",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Accessibility in My Pixel - Pixel Phone Help",
+        "description": "With My Pixel, you can find tailored content, explore new features, and get support for Pixel devices including Pixel phones, Pixel Tablet, Pixel Watch and P..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/16756923",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "添加和移除证书 - Pixel 手机帮助",
+        "description": "如果您要使用的应用或网络需要证书，而您却没有相关证书，那么您就需要先手动安装相关证书。 数字证书用于识别计算机、手机、应用和其他设备，以提高安全性。就跟您持有驾照表示您可以合法驾驶一样，数字证书的用途是识别您的设备，并确认该设备可取得特定权限。 重要提示：文中有些步骤仅适用于 Android 14 及"
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/2844832",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Find a local service centre in India - Pixel Phone Help",
+        "description": "You can get support for your Pixel phone in India through our network of authorized service centres. Prepare for your visit to a service centre Before you vi..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/7173456",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Comparte una conexión móvil mediante un hotspot o un disp...",
+        "description": "Puedes usar los datos móviles de tu teléfono para conectar otro teléfono, una tablet o una computadora a Internet. Esta forma de compartir una conexión se co..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/2812516",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "File a warranty claim for your Pixel phone - Pixel Phone ...",
+        "description": "You can get help for your phone damage whether your warranty covers it or not. If your Pixel phone stops working and it's not your fault, you might be able t..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/9218411",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Change your app settings - Pixel Phone Help"
+      },
+      "page_content": "https://support.google.com/pixelphone/topic/7078309",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Google Pixel でバッテリーと充電器を使ってみる - Google Pixel ヘルプ",
+        "description": "Google Pixel では、電池を管理し、電池を長持ちさせ、電池に関する問題を解決できます。 Google Pixel のバッテリーを管理する バッテリー ウィジェットをホーム画面に追加する バッテリー ウィジェットを使用すると、Google Pixel や近くのコネクテッド デバイスのバッテリー情報を確認で..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/10011133",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Set up or manage a digital car key - Pixel Phone Help",
+        "description": "You can lock, unlock, and start your car from your Android phone with a digital car key. Pair your phone to your car Important: Digital car keys are only ava..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/12060041",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Likely punctured the top microphone pixel 10 pro - Google..."
+      },
+      "page_content": "https://support.google.com/pixelphone/thread/394224685/likely-punctured-the-top-microphone-pixel-10-pro",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "探索您的 Pixel 手机 - Pixel 手机帮助"
+      },
+      "page_content": "https://support.google.com/pixelphone/topic/7084095",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Safety & regulatory guide for Pixelsnap Charger & Pixelsn...",
+        "description": "Where to find product information Safety warnings Proper handling &amp; usage Service &amp; support Regulatory information"
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/16431003",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Connect to Wi-Fi networks on your Pixel phone - Pixel Pho...",
+        "description": "To use Wi-Fi the way you want, you can change how and when your device connects. When you have Wi-Fi turned on, your device automatically connects to nearby ..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/2819519",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "My home page apps keep rearranging themselves - Google Pi..."
+      },
+      "page_content": "https://support.google.com/pixelphone/thread/293288761/my-home-page-apps-keep-rearranging-themselves",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Google Pixel 7a の延長修理プログラム - Google Pixel ヘルプ",
+        "description": "2025 年 4 月 23 日 プログラムの概要 Google は、一部の Google Pixel 7a について、バッテリーが予期せず膨張する可能性があることを確認しました。お客様に Google 製品をできる限り快適にご利用いただきたいと考えていることから、一部の Google Pixel 7a（以下「影響..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/16043453",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Change your settings on Pixel Fold - Pixel Phone Help"
+      },
+      "page_content": "https://support.google.com/pixelphone/topic/13558193",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Cómo conectar tu teléfono Pixel a una red móvil - Ayuda d..."
+      },
+      "page_content": "https://support.google.com/pixelphone/topic/7084391",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Camera Pro mode - Google Pixel Community"
+      },
+      "page_content": "https://support.google.com/pixelphone/thread/237925455/camera-pro-mode",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Change wallpaper on your Pixel phone - Pixel Phone Help",
+        "description": "You can change the background images on your phone's home and lock screens. You can choose from your own photos or the available preset images on your phone,..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/7289143",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Safety & Regulatory Guide for Pixel 9a - Pixel Phone Help",
+        "description": "Where to find product information Safety warnings Proper handling &amp; usage Service &amp; support Regulatory information"
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/15475035",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Switch texting from iMessage to Google Messages - Pixel P...",
+        "description": "To get text messages on your new Android phone, switch from Apple's iMessage to Android's Messages.&nbsp; Learn how to get messages on your Pixel phone with ..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/6156081",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Use full screen mode on your Pixel Fold - Pixel Phone Help",
+        "description": "When you use your entire screen, it enhances your productivity and entertainment on your Pixel Fold with the large screen layouts of your inner screen. Get s..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/13675043",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Google Pixel で残量の少ないバッテリーを長持ちさせる - Google Pixel ヘルプ",
+        "description": "スマートフォンをすぐ充電できないときに残量の少ないバッテリーを長持ちさせるには、バッテリー セーバーをオンにします。バッテリーの消耗を抑えるために、設定を一時的に変更することもできます。 重要: この手順の一部は、Android 10 以降でのみ動作します。お使いの Android のバージョン"
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/6187455",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Choose the backup quality of your photos & videos - Compu...",
+        "description": "You can automatically save your photos and videos to your Google Account when you turn on backup. Learn how to back up your photos and videos. Each Google Ac..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/6220791",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Explore your Pixel Fold camera - Pixel Phone Help",
+        "description": "The Google Pixel Fold has 5 cameras: 3 cameras on the rear camera bar with wide, ultra-wide, and telephoto lenses 2 cameras, one on the outside and one inside"
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/13632627",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Pixel 9 Pro Fold Extended Warranty Program - Pixel Phone ...",
+        "description": "December 8, 2025 Understand the program Google has determined that a limited number of Pixel 9 Pro"
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/16737529",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Find, open & close apps on a Pixel phone - Pixel Phone Help",
+        "description": "You'll find some apps on your Home screens, and all your apps in All Apps. You can open apps, switch between apps, and find 2 apps at once."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/2781964",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "使用 Google Play 的收藏功能访问内容和整理应用 - Pixel 手机帮助"
+      },
+      "page_content": "https://support.google.com/pixelphone/topic/15173266",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Find an authorized repair partner - Pixel Phone Help",
+        "description": "To check your repair options at the Google Store in a support"
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/16616565",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Download Android source code - Pixel Phone Help",
+        "description": "You can download the source code for components in Pixel products that are available as open source. Find the build number of your device Open your device's ..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/13202895",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Set up your Pixel phone - Pixel Phone Help",
+        "description": "&nbsp;You can"
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/7158475",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Sync your apps with your Google Account - Pixel Phone Help",
+        "description": "You can manage how your apps sync messages, email, and other recent data in your Google Account. Important: Some of these steps only work on Android 14 and u..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/2840875",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Back up photos & videos - Computer - Pixel Phone Help",
+        "description": "You can automatically save your photos and videos to your Google Account when you turn on backup. You can access your saved photos and videos from any device..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/6193313",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Why can’t I hear sound from my Pixel phone? - Pixel Phone...",
+        "description": "If your phone makes intermittent or distorted sounds, try these steps: Fix unclear or low volume sound Check the strength of your data connection At the top ..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/9706190",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "5g connectivity - Google Pixel Community"
+      },
+      "page_content": "https://support.google.com/pixelphone/thread/182732365/5g-connectivity",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Limit interruptions with Modes & Do Not Disturb on Pixel ...",
+        "description": "Use Modes including Do Not Disturb to silence your device and to manage when and how you want to be notified. Once you’ve set up Do Not Disturb or other mode..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/6111295",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Как выбрать или сбросить приложения по умолчанию на телеф...",
+        "description": "Если у вас есть несколько приложений, выполняющих одни и те же задачи, вы можете выбрать, какое из них использовать по умолчанию. Например, из нескольких фот..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/6271667",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Safety & regulatory guide for Pixel 10, Pixel 10 Pro & Pi...",
+        "description": "Where to find product information Safety warnings Proper handling &amp; usage Service &amp; support Regulatory information"
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/16275254",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "I want to silence the ring of an individual contact - Goo..."
+      },
+      "page_content": "https://support.google.com/pixelphone/thread/260155593/i-want-to-silence-the-ring-of-an-individual-contact",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Get your device repaired - Pixel Phone Help",
+        "description": "If your Pixel phone has a hardware issue like a cracked screen, camera or speaker problem or it won't charge or turn on, you can find repair options here. De..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/13516446",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Safety & Regulatory Guide for Pixel 8 & Pixel 8 Pro - Pix...",
+        "description": "Where to find product information Safety warnings Proper handling &amp; usage Service &amp; support Regulatory information"
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/13662136",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "How to add lock screen message - Google Pixel Community"
+      },
+      "page_content": "https://support.google.com/pixelphone/thread/80078985/how-to-add-lock-screen-message",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Download apps to your Pixel phone - Pixel Phone Help",
+        "description": "You can download no-charge and paid apps from Google Play on your Android phone or tablet. We recommend that you get apps from Google Play, but you can also ..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/7391672",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Check your Android System Intelligence network data usage...",
+        "description": "You can check your network usage to view data downloaded and uploaded by your phone’s Android System Intelligence features. Android System Intelligence featu..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/12647300",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "How to disable volume rocker media skip controls? - Googl..."
+      },
+      "page_content": "https://support.google.com/pixelphone/thread/185715724/how-to-disable-volume-rocker-media-skip-controls",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Declaration of Conformity (Parental Control) Pixel 8 - Pi..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/15182772",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Google Pixel 8-pink vertical line - Google Pixel-Community"
+      },
+      "page_content": "https://support.google.com/pixelphone/thread/309093724",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Learn about Pixel phone hardware - Pixel Phone Help"
+      },
+      "page_content": "https://support.google.com/pixelphone/topic/7084496",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Use split screen & switch between apps on your Pixel Fold...",
+        "description": "You can use 2 apps at a time on your Pixel Fold. You can also quickly switch between apps when you tap an icon in the taskbar. Learn how to use split screen ..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/13680777",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Safety & regulatory guide for Pixel Fold - Pixel Phone Help",
+        "description": "Where to find product information Safety warnings Proper handling &amp; usage Service &amp; support Regulatory information"
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/13380503",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Ultra HDR Photos Android 14 - Google Pixel Community"
+      },
+      "page_content": "https://support.google.com/pixelphone/thread/237896306/ultra-hdr-photos-android-14",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Pixel 7a battery is really bad... - Google Pixel Community"
+      },
+      "page_content": "https://support.google.com/pixelphone/thread/221411313/pixel-7a-battery-is-really-bad",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Incredibly bad battery drain after July update - Google P..."
+      },
+      "page_content": "https://support.google.com/pixelphone/thread/228238845/incredibly-bad-battery-drain-after-july-update",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Access Repair mode - Pixel Phone Help"
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/16444186",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Learn about automatic collection of safety metrics - Pixe...",
+        "description": "Google periodically collects certain safety metrics and device information from all Pixel devices to help find, prevent, and respond to technical issues that..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/13554749",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Pixel phone hardware tech specs - Pixel Phone Help",
+        "description": "Check out the tech specs for Pixel phones. If you're interested in buying a Pixel phone, visit the Google Store. Pixel"
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/7158570",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "How to factory reset your Google Pixel phone - Pixel Phon...",
+        "description": "To remove all data from your phone, you can reset your phone to factory settings. Factory resets are also called “formatting” or “hard resets.” Important: Yo..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/4596836",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Get help in an emergency using your Pixel phone - Pixel P...",
+        "description": "Use the Personal Safety app to save and share your emergency info. Your phone can contact emergency services automatically in some countries and with certain..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/7055029",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Scan QR codes with your Pixel phone - Pixel Phone Help",
+        "description": "A QR code is a square-shaped barcode that can quickly open a website, show you a restaurant menu, or even connect you to a Wi-Fi network. To scan QR codes wi..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/16561572",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Record your thoughts and get insights with the Journal ap...",
+        "description": "Important: The Journal app works on Pixel 8 and later phones. AI features are only available on Pixel 10 and later phones. You can document your thoughts, fe..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/16512013",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Safety & regulatory guide for Pixel 7 & Pixel 7 Pro - Pixel Phone Help",
+        "description": "Pixel 7 is rated M3/T4, and Pixel 7 Pro is rated M3/T4, according to the FCC hearing aid compatibility regulations for wireless devices."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/12164747",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Как освободить пространство в хранилище телефона Pixel",
+        "description": "Узнайте, как освободить место на телефоне Google Pixel, чтобы ускорить его работу и скачать больше приложений и медиафайлов."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/2840863",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Fehlerbehebung bei einem Pixel Smartphone, das nicht reagiert",
+        "description": "Wenn Ihr Smartphone bei eingeschaltetem Bildschirm hängen bleibt, halten Sie die Ein-/Aus-Taste 30 Sekunden lang gedrückt, um es neu zu starten. Probleme mit ..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/6377386",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Pourquoi est-ce qu'on ne m'entend pas sur mon téléphone Pixel",
+        "description": "Assurez-vous que le son n'est pas coupé. Pendant un appel, regardez votre téléphone. Vérifiez si le micro est mis en surbrillance. Si il l'est, appuyez dessus ..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/14748050",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Как находить и открывать файлы на телефоне или планшете Pixel",
+        "description": "Сортировать. Чтобы открыть файл, нажмите на него. Как удалять файлы с телефона или планшета Pixel. Откройте приложение Files . Выберите категорию затем файл."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/2781972",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Hilfe auf Deutsch | Google-Hilfe - YouTube",
+        "description": "Hilfe auf Deutsch | Google-Hilfe · Verknüpfungen mit Drittanbietern: Sie haben die Kontrolle · Dual Screen-Funktionen auf dem Google Pixel Fold verwenden."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/7084612",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Quickly access your favorite contacts with Pixel VIPs - Google Help",
+        "description": "When you add people to Pixel VIPs and set up a home screen widget, you can have quick access to your recent interactions, their real-time location."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/16302790",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Use Repair Mode for repair services - Pixel Phone Help",
+        "description": "You can turn on Repair Mode to simplify the process. This eliminates the need to wipe and restore data before and after repairs, and makes it easier for ..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/14266732",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Contrôler le mode Avion, le DNS privé et les autres paramètres réseau",
+        "description": "Vous pouvez contrôler le mode Avion, le partage de connexion, le VPN, le DNS privé ainsi que les autres paramètres réseau de votre téléphone."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/2819583",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Manage your Pixel phone's location settings",
+        "description": "You can use location-based services such as local search results, commute predictions, and nearby restaurants based on your device's location."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/9083770",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Manage how you spend time on your Pixel phone or ... - Google Help",
+        "description": "You can get info about how you spend time on your device, like how often you unlock it and how long you use each app. You can set app timers and schedule ..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/9137850",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Den KI‑Assistenten Gemini auf deinem Google Pixel Smartphone ...",
+        "description": "Gemini auf deinem Pixel Smartphone aktivieren · Sag „Hey Google“. · Halte die Ein/Aus-Taste gedrückt. Du kannst auch ändern, mit welcher Taste Gemini aktiviert ..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/15283615",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Sprawdzanie, czy urządzenie jest objęte gwarancją - Telefon Pixel",
+        "description": "Zaloguj się na stronie store.google.com/my-devices. Aby sprawdzić, kiedy kończy się gwarancja, wpisz numer IMEI (International Mobile Equipment Identity). Jak ..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/16443375",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Bildschirm Ihres Google Pixel-Geräts aufnehmen - Pixel-Hilfe",
+        "description": "Bildschirminhalte lassen sich aufzeichnen und als Video speichern. Sie können Audioinhalte, eine App oder den gesamten Bildschirm auf Ihrem Gerät aufnehmen."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/14639773",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Åtgärda visuella problem på Pixel-telefonens skärm",
+        "description": "Om skärmen flimrar, visar en grön ton, har horisontella eller vertikala linjer, inte går att slå på eller har spruckit kan du ha ett problem med hårdvaran."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/16250690",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Change guest & user settings - Pixel Phone Help",
+        "description": "Control what users & guests can do · Open your device's Settings app. · Tap System and then Multiple users. · Tap the user. · Turn on Turn on phone calls or ..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/2865944",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Use multiple Bluetooth audio accessories at once with a Pixel device",
+        "description": "Turn on & start sharing audio from your Pixel · Connect a compatible pair of LE Audio headphones to your phone. Learn how to connect through Bluetooth on your ..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/16483797",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Lupe von Google Pixel verwenden - Pixel-Hilfe",
+        "description": "Außerdem bietet die App visuelle Effekte, die für zusätzlichen Kontrast sorgen. Wenn du ein Bild bei wenig Licht aufnimmst, passt dein Smartphone die Helligkeit ..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/14140405",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Fix touch & response issues on your Pixel screen - Pixel Phone Help",
+        "description": "Fix touchscreen response issues · Check for a system update. Tap System and then Software updates. Install any updates. · If the issue is with gesture ..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/6010316",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Reiniciar en modo Seguro para detectar aplicaciones problemáticas",
+        "description": "Algunas aplicaciones que puedes descargar podrían provocar problemas en tu teléfono. Sigue estos pasos si una aplicación instalada en tu teléfono presenta ..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/2852139",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Menghubungkan kamera jarak jauh ke perangkat Pixel Anda",
+        "description": "Dengan Kamera Terhubung, Anda dapat mengambil gambar atau melakukan streaming dari Pixel Anda dengan aplikasi kamera yang didukung dan memanfaatkan berbagai ..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/15985851",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Android System Intelligence - Pixel-Hilfe",
+        "description": "Android System Intelligence bietet beispielsweise folgende Funktionen: Automatische Untertitel: Automatische Untertitel für Medien."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/12112173",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Crear imágenes con Pixel Studio - Ayuda de Teléfono Pixel",
+        "description": "Importante: Pixel Studio está disponible en los siguientes dispositivos, idiomas y países: Dispositivos: Pixel 9, Pixel 9 Pro, Pixel 9 Pro XL, Pixel 9 Pro ..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/15236074",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Physische SIM-Karte anfordern und in ein Google Pixel einsetzen",
+        "description": "Führen Sie den SIM-Auswurfschlüssel in die kleine Öffnung an der linken Seite Ihres Smartphones ein. Tipp: Bei Pixel 3 (2018) befindet sich der SIM- ..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/7086887",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "إدارة إعدادات الأمان والخصوصية على هاتف Pixel",
+        "description": "يمكنك المساعدة في حماية هاتفك من خلال تعديل إعدادات الأمان والخصوصية. ملاحظة مُهمة: أنت تستخدم إصدارًا قديمًا من نظام التشغيل Android."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/2824802",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Turn off TalkBack - Pixel Phone Help",
+        "description": "TalkBack is an accessibility feature that helps people who are blind or have low vision to interact with their Android devices using touch and spoken ..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/14252950",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Google-accounts en andere accounts toevoegen of verwijderen op ...",
+        "description": "Als je een Google-account toevoegt, wordt de informatie die aan dat account is gekoppeld, zoals je e-mail en contacten, automatisch aan je apparaat ..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/2840815",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Google Pixel デバイスで録音を確認、バックアップ、管理する",
+        "description": "「バックアップと同期」のオンとオフを切り替える · デバイスで Google アカウントにログインします。 · レコーダー アプリ レコーダー アプリ を開きます。 · ユーザー ..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/16267668",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Einstellungen für Schlafenszeit vornehmen - Pixel-Hilfe",
+        "description": "Mit der Uhr können Sie feste Schlafenszeiten einstellen und sich so optimal auf die Nachtruhe vorbereiten. Schlafenszeit und Weckzeit festlegen Wenn Sie ..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/9887159",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Imposta, annulla o posticipa le sveglie sul dispositivo Android",
+        "description": "Gestisci le sveglie · Apri l'app Orologio Orologio del tuo dispositivo. · Tocca Sveglia. · Tocca l'opzione On/Off relativa alla sveglia che vuoi. Suggerimento ..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/2840926",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Google Play ウィジェットをホーム画面から削除する",
+        "description": "Google Play アプリから Google Play ウィジェットを追加すると、アプリを整理したり、アプリからの新しいおすすめコンテンツを見つけたり、中断していたコンテンツを ..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/15141380",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Как перенести файлы с компьютера на телефон Pixel и наоборот",
+        "description": "Добавьте нужные файлы в аккаунт Google, чтобы работать с ними как на компьютере, так и на мобильном устройстве. Файлы. Узнайте, как загружать файлы и папки ..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/2840804",
+      "type": "Document"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": ["langchain", "schema", "document", "Document"],
+    "kwargs": {
+      "metadata": {
+        "title": "Odstraňování problémů se snímačem otisků prstů na telefonu Pixel",
+        "description": "Pokud máte prsty příliš suché, zvlhčete je a zkuste zařízení znovu odemknout. Pokud žádný z uvedených kroků problém nevyřeší, můžete aktuální otisk prstu smazat ..."
+      },
+      "page_content": "https://support.google.com/pixelphone/answer/13537318",
+      "type": "Document"
+    }
+  }
+]
