@@ -1,0 +1,7 @@
+python-dotenv
+sqlalchemy
+psycopg
+langchain
+langchain-community
+langchain-postgres
+langchain-openai
