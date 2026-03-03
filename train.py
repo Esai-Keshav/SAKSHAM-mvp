@@ -30,7 +30,7 @@ async def crawl():
     with open("./data/ios_18_data.json", "rb") as f:
         urls = orjson.loads(f.read())
 
-    urls = urls[:6]
+    urls = urls[41:100]
     # urls = urls[:10]
 
     splitter = RecursiveCharacterTextSplitter(chunk_size=1800, chunk_overlap=200)
@@ -46,4 +46,4 @@ async def crawl():
 
 if __name__ == "__main__":
     print("Crawling and processing documents...")
-    # asyncio.run(crawl())
+    asyncio.run(crawl())
