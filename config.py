@@ -4,10 +4,10 @@ from langchain_community.embeddings import Model2vecEmbeddings
 
 # from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_postgres import PGVector
-
-load_dotenv()
 from sqlalchemy import create_engine
 from sqlalchemy.orm import declarative_base, sessionmaker
+
+load_dotenv()
 
 # DATABASE_URL = "sqlite:///./chat.db"
 DATABASE_URL = "postgresql+psycopg://esai:1234@localhost/dd"
@@ -40,9 +40,12 @@ vector_store = PGVector(
 
 
 llm = init_chat_model(
-    model="llama-3.3-70b-versatile",
-    # model="qwen/qwen3-32b",
-    model_provider="groq",
-    temperature=0.1,
-    max_tokens=500,
+    model="openai:o4-mini",
+    # model="llama-3.3-70b-versatile",
+    # model_provider="openai",
+    # model_provider="groq",
+    # temperature=0.2,
+    max_tokens=720,
 )
+
+print(llm)
