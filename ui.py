@@ -1,13 +1,11 @@
 import chainlit as cl
 from llm import generate_response
-import uuid
-
-id = uuid.uuid4()
 
 
 @cl.on_chat_start
 async def main():
     await cl.Message("You want to know about your phone or scam check").send()
+    cl.user_session.set("history", [])
 
 
 @cl.on_message
@@ -15,8 +13,11 @@ async def on_message(msg: cl.Message):
     # print("User:", msg.content)
 
     # if "phone" in msg.content.lower():
-    print(id)
-    response = generate_response(msg.content, id)
+    print(cl.user_session.get("history"))
+
+    cl.user_session.get("history").append((msg.content))
+
+    response = generate_response(msg.content, history=cl.user_session.get("history"))
     await cl.Message(content=response.content).send()
 
     # else:

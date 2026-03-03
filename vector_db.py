@@ -1,12 +1,13 @@
 from rich import print
 
-from config import vector_store
+from config import vector_db, vector_store
 
 
 def to_db(chunks):
-    vector_store.add_documents(documents=chunks)
+    vector_db.add_documents(documents=chunks)
 
     print(len(chunks))
+    vector_db.save_local("./vector_db/")
     # return vector_store.add_documents(documents=docs)
 
     return True
@@ -23,14 +24,14 @@ def find_similar_docs(query: str):
     #     },
     # )
 
-    similar_docs = vector_store.similarity_search(
+    similar_docs = vector_db.similarity_search(
         query,
         k=5,
     )
     # similar_docs = vector_store.similarity_search(query, k=5, filter={"phone": phone})
     # print(similar_docs)
 
-    return [(doc.page_content, doc.metadata["source"]) for doc in similar_docs]
+    return similar_docs
 
 
 if __name__ == "__main__":

@@ -1,6 +1,11 @@
 from dotenv import load_dotenv
 from langchain.chat_models import init_chat_model
-from langchain_community.embeddings import Model2vecEmbeddings
+
+# from langchain_community.embeddings import Model2vecEmbeddings, OpenAIEmbeddings
+from langchain_openai import OpenAIEmbeddings
+import faiss
+from langchain_community.docstore.in_memory import InMemoryDocstore
+from langchain_community.vectorstores import FAISS
 
 # from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_postgres import PGVector
@@ -22,21 +27,37 @@ DB_Session = sessionmaker(autoflush=True, bind=engine)
 
 Base = declarative_base()
 
+embeddings = OpenAIEmbeddings(model="text-embedding-3-small")
 
-# embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
+embedding_dim = len(embeddings.embed_query("hello world"))
+index = faiss.IndexFlatL2(embedding_dim)
 
-embeddings = Model2vecEmbeddings("minishlab/potion-base-8M")
-connection = "postgresql+psycopg2://esai:1234@localhost:5432/vector"
-
-collection_name = "scam_tech_support"
-
-
-vector_store = PGVector(
-    embeddings=embeddings,
-    collection_name=collection_name,
-    connection=connection,
-    use_jsonb=True,
+vector_store = FAISS(
+    embedding_function=embeddings,
+    index=index,
+    docstore=InMemoryDocstore(),
+    index_to_docstore_id={},
 )
+
+# vector_store.save_local("./vector_db/")
+
+vector_db = FAISS.load_local(
+    "./vector_db/",
+    embeddings,
+    allow_dangerous_deserialization=True,
+)
+
+# connection = "postgresql+psycopg2://esai:1234@localhost:5432/vector"
+
+# collection_name = "scam_tech_support"
+
+
+# vector_store = PGVector(
+#     embeddings=embeddings,
+#     collection_name=collection_name,
+#     connection=connection,
+#     use_jsonb=True,
+# )
 
 
 llm = init_chat_model(
@@ -48,4 +69,4 @@ llm = init_chat_model(
     max_tokens=720,
 )
 
-print(llm)
+# print(llm)

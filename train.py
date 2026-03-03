@@ -26,11 +26,12 @@ async def fetch(client, url):
 
 
 async def crawl():
-    # with open("./pixel_data.json", "rb") as f:
-    with open("./ios_18_data.json", "rb") as f:
+    # with open("./data/pixel_data.json", "rb") as f:
+    with open("./data/ios_18_data.json", "rb") as f:
         urls = orjson.loads(f.read())
 
     urls = urls[:6]
+    # urls = urls[:10]
 
     splitter = RecursiveCharacterTextSplitter(chunk_size=1800, chunk_overlap=200)
 
