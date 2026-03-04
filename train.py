@@ -36,10 +36,7 @@ async def crawl():
     # urls = urls[20:60]
     # # urls = urls[:10]
     # urls = GOOGLE_URLS
-    urls = [
-        "https://support.apple.com/en-in/guide/iphone/iph3d267104/18.0/ios/18.0",
-    ]
-
+    urls = []
     splitter = RecursiveCharacterTextSplitter(chunk_size=1800, chunk_overlap=200)
 
     async with httpx.AsyncClient(timeout=20.0, follow_redirects=True) as client:
