@@ -3,7 +3,6 @@ chainlit
 langchain
 langchain-community
 langchain-openai
-httpx
 beautifulsoup4
 faiss-cpu
 
