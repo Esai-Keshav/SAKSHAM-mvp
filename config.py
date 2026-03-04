@@ -1,16 +1,14 @@
 from dotenv import load_dotenv
 from langchain.chat_models import init_chat_model
-
-# from langchain_community.embeddings import Model2vecEmbeddings, OpenAIEmbeddings
 from langchain_openai import OpenAIEmbeddings
 import faiss
 from langchain_community.docstore.in_memory import InMemoryDocstore
 from langchain_community.vectorstores import FAISS
 
 # from langchain_huggingface import HuggingFaceEmbeddings
-from langchain_postgres import PGVector
-from sqlalchemy import create_engine
-from sqlalchemy.orm import declarative_base, sessionmaker
+# from langchain_postgres import PGVector
+# from sqlalchemy import create_engine
+# from sqlalchemy.orm import declarative_base, sessionmaker
 
 load_dotenv()
 

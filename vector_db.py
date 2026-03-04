@@ -1,4 +1,4 @@
-from rich import print
+# from rich import print
 
 from config import vector_db, vector_store
 

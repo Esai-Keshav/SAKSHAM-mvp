@@ -1,7 +1,5 @@
 import asyncio
 import httpx
-
-# import orjson
 from bs4 import BeautifulSoup
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_core.documents import Document
@@ -37,6 +35,7 @@ async def crawl():
     # urls = urls[20:60]
     # # urls = urls[:10]
     # urls = GOOGLE_URLS
+    urls = []
 
     splitter = RecursiveCharacterTextSplitter(chunk_size=1800, chunk_overlap=200)
 
