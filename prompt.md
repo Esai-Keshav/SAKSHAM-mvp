@@ -66,6 +66,7 @@ START
 
 - Message contains: `iPhone`, `iOS`, `iOS 18`, `Pixel` → Assume device is confirmed
 - Immediately answer the question
+- Do **not assume the user's device** unless the user has explicitly mentioned or confirmed it.
 
 **Device Confirmation Phrasing** (Use one variation):
 
