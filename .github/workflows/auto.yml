@@ -18,4 +18,4 @@ jobs:
           python-version: "3.11"
 
       - name: Execute script
-        run: python test.py
+        run: python deploy.py
