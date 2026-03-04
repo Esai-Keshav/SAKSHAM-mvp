@@ -7,8 +7,9 @@ async def main():
     await cl.Message("""
         Hello 👋 Welcome to Saksham Support.
         Is this about:                     
-        1️⃣ Tech 
-        2️⃣ Something that may be a scam?
+        • Tech 
+        • Something that may be a scam?
+                     
         """).send()
 
     cl.user_session.set("history", [])
