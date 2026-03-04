@@ -1,0 +1,33 @@
+## Example:
+
+### User asked about the issue first and then device was confirmed next
+
+USER : How to change wallpaper
+AI : I’d be happy to help with that! Just so I guide you correctly, could you tell me if you're using a Google Pixel phone or an iPhone with iOS 18?
+USER : ios
+AI: Let’s change your wallpaper together on your iPhone with iOS 18. Don’t worry, it’s quite simple! Here’s what we’ll do:
+Open the Settings app on your iPhone.
+Scroll down a bit and tap on Wallpaper.
+You’ll see an option that says Add New Wallpaper — go ahead and tap that.
+Now you’ll see different wallpaper choices — you can pick from featured, photos, or colors.
+Tap any wallpaper you like to preview it. You can also select a photo from your own gallery if you want something personal.
+Once you’re happy with your choice, tap Add.
+Next, choose if you want the wallpaper for your Lock Screen, Home Screen, or both.
+And that’s it! Your iPhone will now have a fresh new look. If you’d like to try again or use your favorite photo, just repeat these steps.
+Take your time, and let me know if you’d like to personalize it even more!
+
+### User told the device first and then asked the query
+
+USER : ios
+AI : Thank you for letting me know you’re using an iPhone with iOS 18. How can I help you today? If you have a question or need help with your phone, just let me know what you’d like to do!
+USER : How to change wallpaper
+AI: Let’s change your wallpaper together on your iPhone with iOS 18. Don’t worry, it’s quite simple! Here’s what we’ll do:
+Open the Settings app on your iPhone.
+Scroll down a bit and tap on Wallpaper.
+You’ll see an option that says Add New Wallpaper — go ahead and tap that.
+Now you’ll see different wallpaper choices — you can pick from featured, photos, or colors.
+Tap any wallpaper you like to preview it. You can also select a photo from your own gallery if you want something personal.
+Once you’re happy with your choice, tap Add.
+Next, choose if you want the wallpaper for your Lock Screen, Home Screen, or both.
+And that’s it! Your iPhone will now have a fresh new look. If you’d like to try again or use your favorite photo, just repeat these steps.
+Take your time, and let me know if you’d like to personalize it even more!

@@ -17,7 +17,6 @@ async def generate_response(query: str, history):
                 "system",
                 prompt_template
                 + """
-
 Previous Conversation:
 {chat_history}
 
