@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_core.documents import Document
 from vector_db import to_db
-
+import orjson
 
 headers = {"User-Agent": "Mozilla/5.0"}
 
@@ -12,6 +12,7 @@ headers = {"User-Agent": "Mozilla/5.0"}
 async def fetch(client, url):
     try:
         resp = await client.get(url, headers=headers)
+        print(resp)
         resp.raise_for_status()
     except httpx.HTTPError as e:
         print(f"Error fetching {url}: {e}")

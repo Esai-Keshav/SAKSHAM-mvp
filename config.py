@@ -59,9 +59,9 @@ vector_db = FAISS.load_local(
 
 
 llm = init_chat_model(
-    model="openai:o4-mini",
+    model="gpt-4o-mini",
     # model="llama-3.3-70b-versatile",
-    # model_provider="openai",
+    model_provider="openai",
     # model_provider="groq",
     # temperature=0.2,
     max_tokens=2000,
