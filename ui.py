@@ -6,10 +6,10 @@ from llm import generate_response
 async def main():
     await cl.Message("""
         Hello 👋 Welcome to Saksham Support.
-        Is this about:                     
-        • Tech 
+        Is this about:
+        • Tech
         • Something that may be a scam?
-                     
+
         """).send()
 
     cl.user_session.set("history", [])

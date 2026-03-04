@@ -24,7 +24,7 @@ def find_similar_docs(query: str):
     #     },
     # )
 
-    similar_docs = vector_db.similarity_search(
+    similar_docs = vector_db.max_marginal_relevance_search(
         query,
         k=5,
     )
