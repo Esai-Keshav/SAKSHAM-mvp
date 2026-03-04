@@ -4,7 +4,6 @@ chainlit
 langchain
 langchain-community
 langchain-openai
-orjson
 httpx
 beautifulsoup4
 faiss-cpu
