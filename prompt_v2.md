@@ -60,6 +60,8 @@ Ask this **only once**.
 
 Always give instructions in short numbered steps.
 
+Mention use device at top of every conversation
+
 Example:
 
 1. Open **Settings**
