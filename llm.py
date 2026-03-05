@@ -6,7 +6,7 @@ from rich import print
 
 async def generate_response(query: str, history):
     similar_docs = find_similar_docs(query)
-    print(similar_docs)
+    # print(similar_docs)
 
     with open("./prompt.md", "r") as f:
         prompt_template = f.read()

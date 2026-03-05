@@ -37,7 +37,6 @@ async def crawl():
     # # urls = urls[:10]
     # urls = GOOGLE_URLS
     urls = []
-
     splitter = RecursiveCharacterTextSplitter(chunk_size=1800, chunk_overlap=200)
 
     async with httpx.AsyncClient(timeout=20.0, follow_redirects=True) as client:
@@ -51,40 +50,5 @@ async def crawl():
 
 if __name__ == "__main__":
     print("Crawling and processing documents...")
-
-    # GOOGLE_URLS = [
-    #     "https://support.google.com/pixelphone/answer/14140287",
-    #     "https://support.google.com/pixelphone/answer/12967594",
-    #     "https://support.google.com/pixelphone/answer/7158570",
-    #     "https://support.google.com/pixelphone/answer/15199831",
-    #     "https://support.google.com/pixelphone/answer/14116441",
-    #     "https://support.google.com/pixelphone/answer/7535206",
-    #     "https://support.google.com/pixelphone/answer/6111329",
-    #     "https://support.google.com/pixelphone/answer/7444033",
-    #     "https://support.google.com/pixelphone/answer/2819525",
-    #     "https://support.google.com/pixelphone/answer/2818748",
-    #     "https://support.google.com/pixelphone/answer/7680439",
-    #     "https://support.google.com/pixelphone/answer/14782427",
-    #     "https://support.google.com/pixelphone/answer/6183600",
-    #     "https://support.google.com/pixelphone/answer/6187458",
-    #     "https://support.google.com/pixelphone/answer/6006564",
-    #     "https://support.google.com/pixelphone/answer/6122841",
-    #     "https://support.google.com/pixelphone/answer/12913009",
-    #     "https://support.google.com/pixelphone/answer/9316333",
-    #     "https://support.google.com/pixelphone/answer/7283669",
-    #     "https://support.google.com/pixelphone/answer/2844832",
-    #     "https://support.google.com/pixelphone/answer/2781850",
-    #     "https://support.google.com/pixelphone/answer/15182154",
-    #     "https://support.google.com/pixelphone/answer/13202895",
-    #     "https://support.google.com/pixelphone/answer/7055029",
-    #     "https://support.google.com/pixelphone/answer/9118387",
-    #     "https://support.google.com/pixelphone/answer/2819524",
-    #     "https://support.google.com/pixelphone/answer/4596836",
-    #     "https://support.google.com/pixelphone/answer/9218411",
-    #     "https://support.google.com/pixelphone/answer/6187455",
-    #     "https://support.google.com/pixelphone/answer/6090599",
-    #     "https://support.google.com/pixelphone/answer/13675043",
-    #     "https://support.google.com/pixelphone/answer/7106961",
-    # ]
 
     asyncio.run(crawl())
