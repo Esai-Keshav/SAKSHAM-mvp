@@ -26,7 +26,7 @@ def find_similar_docs(query: str):
 
     similar_docs = vector_db.max_marginal_relevance_search(
         query,
-        k=5,
+        k=8,
     )
     # similar_docs = vector_store.similarity_search(query, k=5, filter={"phone": phone})
     # print(similar_docs)
